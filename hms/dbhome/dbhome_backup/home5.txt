@@ -1,0 +1,1 @@
+home5 fortune_park 3 2 6 1700 +Aircon+Water_Heater+With_Swimming_Pool+Washing_Facility+Cooking_Facility fsefsre_srf admin 50 100 5000

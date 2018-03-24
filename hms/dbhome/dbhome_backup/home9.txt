@@ -1,0 +1,1 @@
+home9 penang_city 3 2 6 1200 +Aircon+Water_Heater+Cooking_Facility+Washing_Facility+TV_Set very_good_quality_house_with_cheap_price omar 50 300 1000

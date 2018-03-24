@@ -1,0 +1,10 @@
+home1 Vista_Komanwel 4 2 8 1500 aircon+water_heater+microwave suitable_for_students_study_in_IMU/APU fon 70 400 1500
+home2 covillea 3 2 6 1400 washing_machine+tv+aircon new_furniture_with_modern_design john 80 500 1900
+home3 vista_komanwel 3 2 6 1500 +Aircon efsefs admin 40 100 1900
+home4 south_city 3 2 6 1500 +Water_Heater gsef admin 40 80 2000
+home5 fortune_park 3 2 6 1700 +Aircon+Water_Heater+With_Swimming_Pool+Washing_Facility+Cooking_Facility fsefsre_srf admin 50 100 5000
+home6 one_south 3 2 6 1800 +Aircon+Water_Heater+TV_Set really_cheap hon 60 300 1400
+home7 endah_p 3 2 6 1300 +Aircon+With_Swimming_Pool+Cooking_Facility+Washing_Facility+TV_Set really_great_place admin 40 400 1500
+home8 mines 3 2 6 1450 +Mini_Market_Around+Aircon+With_Swimming_Pool+Washing_Facility+TV_Set super_great_holiday_place admin 90 500 1900
+home9 penang_city 3 2 6 1200 +Aircon+Water_Heater+Cooking_Facility+Washing_Facility+TV_Set very_good_quality_house_with_cheap_price omar 50 300 1000
+home10 bukit_bintang 3 2 6 1400 +Aircon+Water_Heater+Parking_Slots very_ceahp 57dtuz 30 180 600

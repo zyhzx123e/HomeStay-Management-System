@@ -1,0 +1,10 @@
+Aircon
+Water_Heater
+Parking_Slots
+Cooking_Facility
+Washing_Facility
+24_Hour_Security_Guard
+Gymnasium
+Swimming_Pool
+Mini_Market_Around
+LRT-MRT-BUS_Around

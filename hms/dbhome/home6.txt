@@ -1,0 +1,1 @@
+home6 one_south 3 2 6 1800 +Aircon+Water_Heater+TV_Set really_cheap hon 60 300 1400
